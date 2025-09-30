@@ -5,7 +5,7 @@ The site provides simple dynamic list of tasks which users can add, delete and u
 
 # Live Demo
 
-Experience the todo app: [Todo App Demo](https://github.com/bebelekele/react_todo-app)
+Experience the todo app: [Todo App Demo](https://bebelekele.github.io/react_todo-app/)
 
 # Technologies used
 
