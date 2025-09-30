@@ -1,9 +1,38 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+This project showcases a todo tasks management website designed to help users manage their tasks.
+The site provides simple dynamic list of tasks which users can add, delete and update their tasks.
 
-### Available Scripts
+# Live Demo
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+Experience the todo app: [Todo App Demo](https://github.com/bebelekele/react_todo-app)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Technologies used
+
+### Core
+- React (v18.3.1) - UI Framework
+- TypeScript (v5.2.2) - Type safety
+- SCSS (v1.77.8) - Styling
+
+### Development & Deploymentx
+- Vite (v5.3.1) - Build tool
+- ESLint (v8.57.0) - Code quialty
+
+# Getting started
+1. Clone the repository:
+```
+git clone https://github.com/bebelekele/react_todo-app.git
+cd react_todo-app
+```
+
+2. Install dependencies:
+```
+npm install
+```
+
+3. Run the project locally:
+```
+npm start
+```
+
+
