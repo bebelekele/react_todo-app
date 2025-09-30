@@ -19,6 +19,7 @@ Experience the todo app: [Todo App Demo](https://bebelekele.github.io/react_todo
 - ESLint (v8.57.0) - Code quialty
 
 # Getting started
+Instruction how to set up the project locally:
 1. Clone the repository:
 ```
 git clone https://github.com/bebelekele/react_todo-app.git
